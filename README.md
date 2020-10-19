@@ -1,6 +1,15 @@
 # shipment_admin
 
-A new Flutter project.
+This repository was created in the internal hackaton of nowports 
+contains an application made in flutter with the following screens
+* splash screen 
+* login
+* home
+* profile
+* contains a drawer navigation
+* detail page
+ and uses a voice assistant called alan_voice. For more information on the assistant, please refer to its page:
+https://alan.app/
 
 ## Getting Started
 
